@@ -4,7 +4,7 @@
 
 Install following packages using pip in terminal:(Copy and paste the below code in your terminal)
 
-* pip install striprtf pandas xlrd XlsxWriter
+* `pip install striprtf pandas xlrd XlsxWriter`
 
 # Check these before start
 
@@ -18,11 +18,11 @@ Install following packages using pip in terminal:(Copy and paste the below code 
 
 Open your OS Terminal ( like CMD or Mac Terminal )
 
-Type below code for more info and help:
+Type below command for more info and help:
 
 > python analyzer.py --help
 
-Type below code for starting parse process:
+Type below command for starting parse process:
 
 > python analyzer.py --start
 
