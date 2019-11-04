@@ -1,3 +1,4 @@
+# Script Version: 4.0
 import sys
 import random
 from os import listdir, path, makedirs
@@ -26,13 +27,13 @@ def perform_commands():
             print('   --help      ==> show list of commands')
 
         elif command == '--start':
-            if len(args)is not 1:
+            if len(args) != 1:
                 print(
                     "Incorrect format, please use --help fot more info")
                 exit(1)
             startAnalyzeProcess()
         elif command == '--excel':
-            if len(args)is not 1:
+            if len(args) != 1:
                 print(
                     "Incorrect format, please use --help fot more info")
                 exit(1)
@@ -185,6 +186,13 @@ def write_excel_file(file_name, data_list):
         pass
 
 
+def remove_CEO_name_from_start_phrase(text, ceo_name):
+    if text.startswith('{0}:'.format(ceo_name).upper()) or text.startswith('{0},'.format(ceo_name).upper()):
+        # remove CEO name plus , or : after that
+        return text[len(ceo_name)+1:].strip()
+    return text
+
+
 def parser_isTextStartWith_CEO_name(text, ceo_name):
     return text.startswith('{0}:'.format(ceo_name).upper()) or text.startswith('{0},'.format(ceo_name).upper())
 
@@ -234,9 +242,11 @@ def startAnalyzeProcess():
                 if parser_isTextStartWith_CEO_name(line, CEO_name):
                     is_CEO_seen = True
                     if is_QA_seen:
-                        _targetOutputList_After_QA.append(line)
+                        _targetOutputList_After_QA.append(
+                            remove_CEO_name_from_start_phrase(line, CEO_name))  # remove CEO name from start phrase
                     else:
-                        _targetOutputList_Before_QA.append(line)
+                        _targetOutputList_Before_QA.append(
+                            remove_CEO_name_from_start_phrase(line, CEO_name))  # remove CEO name from start phrase
                 else:
                     if parser_isTextStartWithAnyCommander(line):
                         is_CEO_seen = False
@@ -244,9 +254,11 @@ def startAnalyzeProcess():
                         # this paragraph is continue part of CEO speak.
                         if is_CEO_seen:
                             if is_QA_seen:
-                                _targetOutputList_After_QA.append(line)
+                                _targetOutputList_After_QA.append(
+                                    remove_CEO_name_from_start_phrase(line, CEO_name))  # remove CEO name from start phrase
                             else:
-                                _targetOutputList_Before_QA.append(line)
+                                _targetOutputList_Before_QA.append(
+                                    remove_CEO_name_from_start_phrase(line, CEO_name))  # remove CEO name from start phrase
                 # ------------------
         except:
             _target_Error_log.append(
