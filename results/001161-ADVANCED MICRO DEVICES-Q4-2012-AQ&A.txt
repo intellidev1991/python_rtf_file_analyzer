@@ -1,0 +1,90 @@
+RORY READ: David, we already have an interesting embedded business already in place. What we are going to see as we continue to invest in that area to leverage our differentiated IP and our leadership APUs is a move into some of the higher-growth segments. We've mentioned on previous calls that those are currently confidential and they will be announced as the year moves on.
+
+We should see us build that revenue starting in the next several quarters and it ramps throughout the year to that 20% level.
+
+RORY READ: It's interesting, David. Over the past 16 months of being here at AMD, it's clear that this Company has a deep base of intellectual property. It has a huge asset pool in terms of the talented engineers and dedicated AMD'ers across the planet. And this is an unprecedented period of change in the industry.
+
+Our strategies remain basically fundamentally consistent throughout this. The only thing that has really changed is the time period that we need to execute that change and accelerate into that.
+
+First, it's a three-phase turnaround -- one, reset and restructure the Company. And I think here in fourth quarter, you see us making that kind of progress where we are delivering on that commitment, we are executing and managing our expense, we are managing our cash properly and we have improved our inventory position significantly.
+
+With that, we are on a drive to get to $450 million by 3Q. Then, we need to execute and accelerate in 2013. That's where we hit the top of the curve of this restructure and reset phase and begin to move into the launch of these powerful new products that we have in place.
+
+At CES, Lisa and I spent a lot of time with customers, and they were excited about Richland, which has now launched. And they were excited about Kabini and Temash -- Kabini, the follow-on to our most successful Brazos platform, and then Temash, into the low-power segment. These are very interesting products, and we are going to continue our industry leadership into the Graphics segment.
+
+And then dense server had its best quarter ever and showing the foundation for future growth.
+
+But, ultimately, where we have to take this Company is we need to transformation AMD to take advantage of where the market is going, the high-growth segments, those areas where we can apply our innovation to lead.
+
+That's where we have to take the third part of our step, and we are making those investments now. In dense server, we are already seeing the early progress with SeaMicro that I mentioned, and then moving into embedded semicustom. This year we'll be 20%, but our ultimate objective within the next three years is to move to 40% to 50% of our revenue in those segments. And then obviously, the opportunity for us to build on our long heritage in the client segment around new form factors in the low-power segment -- these are areas where AMD can create leadership, diversify its portfolio, build on its long history of success and its differentiated IP for leadership.
+
+David, I think that's the one, two, three step approach that we need to take.
+
+RORY READ: And it's interesting, as we mentioned in earlier comments, those parts are already in their validation phases here. We are working through those tracks, and that protects those key design wins that drive that 20% in terms of the revenue objective by 4Q. So we are on track and making solid progress in terms of the delivery of those key new solutions.
+
+RORY READ: So, Hans, from a standpoint, we are working to create strength in our core businesses, at the same time working to capture those new opportunities outside of the traditional space. And over the next two years, you are going to see us rebalance that business where we have a more even split across the non-PC portions and the PC portions.
+
+What's kind of interesting as you talk about the leadership in that Quad-Core space of the SoC, that's a powerful product with Kabini that's launching this year. Again, it's in its final phases of test. I'm sure Lisa will comment in just a second.
+
+What we are trying to do in this segment is, again, to create the leadership that we have done in the past with Brazos and then to apply that same kind of knowledge into Temash, which brings us down into the fanless tablet segment.
+
+Now, from a talent standpoint, what we have really focused on is a mix of industry knowledge across the semiconductor space, and you have seen us bring in interesting players across the past 12, 15 months, players that are from the who's who of the industry. They know the semicustom space, they know microprocessor design, they know semicustom and, of course, embedded. These talents also you can see with the Keller's and Mark Papermaster's and, obviously, Lisa Su, the experience to deliver that, an industry-leading microprocessor design. And that's why I think you are seeing some of that progress around Kabini.
+
+Lisa, do you want to add a thought or two?
+
+RORY READ: In terms of capacity, what were you curious about?
+
+RORY READ: Our focus, again, I think is clear and very focused. We have got to stay on this reset/restructure, get that done and behind us. I think we are moving through that well in terms of getting the cost model, then getting into the execution of the acceleration. That's the key. It's about getting those products and market. Lisa just talked about it in terms of Kabini and talked about it in terms of Temash. It's around the embedded segment. That's the key for us. And the customer acceptance, whether it's in the industrial segment, the gaming segment, our traditional OEMs or ODMs, and they are very interested in the products that we are creating in 2013. That's the key for us. We do that, we correct the turnaround, we get to the lower operating model and we return to profitability and growth.
+
+At the same time, continue to focus on where the market is going around dense server and around the areas of that tablet/mobility segment as well as continue to expand into the embedded semicustom opportunity. I think we have to focus on what we are good at and getting the products executed. That's key for us.
+
+RORY READ: No. The focus around expense management in terms of driving that op expense line is really across all parts of the business. We have tried to focus those areas where we thought there was efficiency and productivity to begin. For example, there are opportunities for us to dramatically reduce the number of different process technologies we are running in our various foundries. That drives all the IP to be written to multiple libraries. We have very much focused in terms of efficiency to drive the number of metal layers, the way we reuse our IP, the IP development process that Mark Papermaster and Lisa Su have implemented through our technology board. We are seeing efficiencies and productivity through that.
+
+At the same time, we are driving to improve our focus in terms of the types of design wins we go after. It's really not the best business practice to go after just a gigantic number of design wins. We want those high runners, those design wins that drive volume. Every design wins drives cost, drives back end execution, testing resources. When we drive hundreds of design wins, some of those are 25,000, 50,000 units. Those are not efficient. We have been focusing with Lisa's business unit teams and John Byrne's sales teams to really identify those design wins that get the volume and get to the most efficient usage. That's how we are driving that kind of focus in terms of efficiency and productivity, and those are just a few.
+
+We have implemented the financial transformation system on the back end. John Dougherty on the supply chain has an intense focus across each of his processes to drive that efficiency, to improve our execution. And what is interesting, while we had some schedule challenges in the middle of summer last year, the second half of the year, the progress that the business unit teams and technology teams have made on our 2013 roadmap parts has been very consistent and on schedule. So I think we are making the right moves to push for that efficiency, look for the reuse of IP, create that ambidextrous architecture that is reusable and to drive efficiencies across the portfolio.
+
+And in fact, we announced a new Senior Vice President, [Shakiv Akur], who is driving that transformation and efficiency focus across our entire business as a full-time job.
+
+RORY READ: And again, at the end of the day, our Company hinges on the products that we create -- 13 roadmap looks strong. It's across the board in terms of execution, the schedules and the launches are tracking right to the schedules that we laid out. We are working on 2014, 2014 and 2015 in terms of how to transform our business in terms of the high-growth segments and how do we continue to leverage our leadership in the client space and the graphics space to continue to deliver that product focus. We have protected through this process of budgeting those areas where we know the highest growth will come over the next several years.
+
+RORY READ: Well, from a cost structure, that's how we are driving -- part of the way how we drive to the $450 million. That's one piece of it, as I kind of highlighted, JoAnne. The idea across the development process, the way we interlock now, the focus that we have -- in the past, custom hugely long, complex designs were the way the PC market moved. In the future, it's going to be quicker, low-power, more efficient design.
+
+What also you get from this approach -- obviously, you'll get time to market, you get lower costs. You also get better yield, which is also important in terms of really managing the business. So it has benefits across the board. And speed of execution as we move forward in a model where you are going to see a consortium-based model and the proprietary control points of -- as some of x86 break down, these kinds of models are going to be key. So we are going to stay the course on that. That's helping us on the $450 million.
+
+From the gross margin, I think we have given the guidance in fourth quarter. We need to focus on executing first quarter as we have given the guidance, excuse me, on first quarter. And from there, we will go forward.
+
+RORY READ: Yes, JoAnne, we wouldn't get into that level of detail. I think we have given a good outlook in terms of the guidance for 1Q.
+
+RORY READ: You can, go right ahead. But you are not Glen; I know Glen's voice.
+
+RORY READ: Okay. Well, Devinder, why don't you touch on inventory, how we focus and manage it and how it progresses from here, and then we will touch on our embedded strategy, which we have covered before, for Emily.
+
+RORY READ: Our embedded business will continue to grow toward the 20% in the second half.
+
+RORY READ: And this is all consistent with our focus to drive reusable IP and true SoC methodology in an ambidextrous architecture. This is an area where AMD can clearly differentiate and create leadership in the marketplace.
+
+RORY READ: From my perspective, as I look at the PC market, Mark, that market is going to continue to be choppy in 2013, particularly in the first half. Remember, if you go back to 1Q last year, there was a lot of concern about the flood that affected Thailand and the hard disk file, and it was quite surprising, as we kind of suggested, that supply chain would be quite resilient. The numbers were quite strong out of 1Q.
+
+We think there will be continued chop and pressure in that first half of 2013. And this market is a bit dynamic right now. We do think Win 8 is a very important event in the industry, and I think that impact or effect will build over the course of the year. We expect the second half to be stronger than the first half, from my perspective. And if I look at the overall year, weaker in the first half, stronger in the second half, probably in that flat to slightly down. That's our view of it in terms of where we are expecting the market and how we are planning to balance that in terms of the gross margin and in terms of the revenue line. And that's how we came to the conclusion.
+
+RORY READ: Well, I think what is important is that we see that same high-growth opportunity in those new form factors. And you can see it with the introduction of our relationship with VIZIO, just here at CES and that introduction of those two ultrathins and, obviously, in the tablet space. You're going to see us continuing to work across OEMs, in the embedded space, new partners, and across the ODM segment to get that expansion and begin to build that market.
+
+But again, our focus is to build that over on 2- to 3-year period to drive that to 40% to 50% of our revenue across those high-growth segments. Lisa, any additional comments you would like to add?
+
+RORY READ: I think we have had a clear focus for the past several quarters to improve our channel execution from a push model to a velocity model where I have sell-through tracking and the relationship and data all the way through the channel. I think we are making steady progress in 3Q, 4Q and as we move forward there. I think that inventory and our finished goods position -- Devinder touched on it with our WSA work and the focus, we at the end of 2Q and even into 3Q were seeing pressure in terms of potentially building more inventory.
+
+And while we did have to take a charge in 3Q to address some of that, I think we have done a strong job in terms of focusing on that inventory. That positions us for the new product introductions that we talked about at CES -- Richland, Kabini and Temash. And I think that's what positions us to move forward and begin to build this turn and acceleration in 2013 with the objective to get to profitability in the second half and positive free cash flow at that time frame again. That's the key to our business.
+
+RORY READ: And I will make just a brief comment from the standpoint of my experience as I joined AMD. The Graphics team here that we have is leadership, the kind of IP, the kind of engineering skill, the ability for them to innovate and drive -- I don't know if you had a chance to walk through, Steven, the CES work that we showed there.
+
+RORY READ: Yes, and I thought you saw some really interesting application of how you could create a surround compute environment leveraging the Graphics capability. Imagine that kind of solution moving forward. Say they are building a brand-new building and that building is not even built. You could create with our technology a sales room that created the windows and the graphics representations. And you say, well, what does this building on the 22nd floor look like at night? And all of the sudden, the graphic engines fire up the windows. You can see that world and you could apply that kind of surround compute that we see emerging, this new trend of conversions that the cloud is fundamentally driving. And it's our Graphics IP that is going to be a fundamental enabler of that future.
+
+That's the world we are chasing. We are not going after the past. That stand-alone data and application on a singular device protected by a couple of proprietary control points -- that era is ending. The era is -- in front of us is an interconnected world where there's almost a tsunami of new devices that begin to emerge and they are all graphically linked because the data, information, and the application, are running on cloud dense servers and these mega data centers, and they are distributing information across a whole set of client devices. They are efficient, they are low power, they are across embedded devices. This is the opportunity, Steve, in front of us to really get after it and where we can see graphics taking the business moving forward.
+
+RORY READ: From our perspective, our supply chain has focused with our foundry partners across 2012 in improving execution. And as I've commented several times before, the work that we have done with GLOBALFOUNDRIES and across the foundry supply-chain environment has a significantly improved with that kind of a disciplined approach.
+
+We introduced last year the first 28 nanometer graphics products and leadership. And now, as we move forward, we are positioning ourselves with that refocus, better-executing supply chain to move forward in 28.
+
+RORY READ: And one of the things, Sanjay, that we are focused on is to make sure those parts are delivered to time to the market, the 2C launches, and that we get the parts and volume as we ramp through it so that it's not just an announce and a back end. These are focused in terms of the execution of the supply chain to build through the ramp at the beginning of the launch. So that's something we've focused very hard not to repeat the Llano kind of events of 2011.
+
